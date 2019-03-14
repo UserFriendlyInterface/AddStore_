@@ -66,7 +66,7 @@ if not exist "%%i" goto :nofiles
 
 set "PScommand=PowerShell -NoLogo -NoProfile -NonInteractive -InputFormat None -ExecutionPolicy Bypass"
 echo.
-echo ======================B
+echo ======================
 echo Adding Microsoft Store
 echo ======================
 echo.
