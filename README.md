@@ -12,4 +12,4 @@ If you need a Microsoft store in Windows 10 LTSB, LTSC, Windows Server 2016, 201
 
 ### Nothing works!
 1. Try turning the computer off and on again.
-2. What? Did not help? Then write me a message: userfriendlyinter1@gmail.com.
+2. What? Did not help? Then write me a message: userfriendlyinterface1@gmail.com.
